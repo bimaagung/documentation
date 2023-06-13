@@ -1,6 +1,6 @@
-Buatkan dokumen secara rapi install solaar
+Here is the properly formatted document for installing Solaaar:
 
-To resolve this issue, you can try reinstalling Solaaar using pip. Here are the steps you can follow:
+To resolve this issue, you can try reinstalling Solaaar using pip. Follow the steps below:
 
 1. Open a terminal.
 
@@ -30,15 +30,20 @@ To resolve this issue, you can try reinstalling Solaaar using pip. Here are the 
 
 6. Run the `solaar` command with root privileges using `sudo`:
    ```
-   sudo solaar <command> (show ,pair, unpair)
+   sudo solaar <command> (show, pair, unpair)
    ```
-7. Pastikan bluetooth menyala dan mode pair
-8. Hubungkan usb Mouse M720
-9. Pastikan moouse logitech M720 dalam mode pair
 
-10. Connectkan ke 
-   ```
-   sudo solaar pair
-   ```
-11. Apabila masih tidak menyala , silahkan off kan dulu mousenya dan on kan kembali
+7. Ensure that Bluetooth is turned on and in pairing mode.
 
+8. Connect the Logitech M720 mouse via USB.
+
+9. Make sure the Logitech M720 mouse is in pairing mode.
+
+10. Connect the device using the command:
+    ```
+    sudo solaar pair
+    ```
+
+11. If the issue persists, try turning off the mouse and turning it back on again.
+
+These are the steps you can follow to install Solaaar and connect the Logitech M720 device. If you have any further questions or need additional assistance, feel free to ask. I'm here to help!
