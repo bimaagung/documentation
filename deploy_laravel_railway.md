@@ -4,10 +4,7 @@
 This documentation will guide you through the process of deploying a Laravel application with MySQL to Railway. Railway is a hosting platform that allows you to easily run your Laravel applications.
 
 ## Step 1: Get Started with GitHub Project
-
-1. Create a new repository on GitHub.
-2. Clone the repository to your local machine.
-3. Select the part of the project that you want to deploy to Railway.
+1. Select the part of the project that you want to deploy to Railway (permission don't all but only specific).
 
 ## Step 2: Add MySQL to the Project
 
@@ -26,7 +23,6 @@ This documentation will guide you through the process of deploying a Laravel app
 ## Step 3: Create Environment (Prod, Dev, or Test)
 
 1. Create a new environment configuration in the Railway project.
-2. Adjust the environment configuration in the `variables` file of the Laravel project.
 
 ## Step 4: Go to Setting Change Branch and Generate Domain
 
@@ -70,7 +66,7 @@ This documentation will guide you through the process of deploying a Laravel app
 
 ## Step 6: Configure Variables in the Laravel Project
 
-1. Open the `.env` file in the Laravel project.
+1. Open the tab `variables` in the Laravel project.
 2. Configure the following variables according to the environment you're deploying to:
 
    ```
