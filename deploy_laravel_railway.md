@@ -12,7 +12,7 @@ This documentation will guide you through the process of deploying a Laravel app
 ## Step 2: Add MySQL to the Project
 
 1. Make sure you have the MySQL service provided by Railway installed.
-2. Configure the MySQL connection in the `variables` file of your Laravel project:
+2. Configure the MySQL connection in the `variabels` file of your Laravel project:
 
    ```
    DB_CONNECTION=mysql
